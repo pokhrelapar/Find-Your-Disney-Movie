@@ -35,11 +35,17 @@ It is important to know that not every movie is included in the dataset. Some of
 ## Libraries Used
 
 -BeautifulSoup
+
 -Pytest
+
 -Re library
+
 -datetime library
+
 -Pickle, JSON, YAML
+
 -Accessing data from OMDB API using Requests
+
 -Pandas
 
 ## Final Datasets
