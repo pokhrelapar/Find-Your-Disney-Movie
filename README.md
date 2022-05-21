@@ -50,10 +50,10 @@ It is important to know that not every movie is included in the dataset. Some of
 
 ## Final Datasets
 
-The Datasets folder has datasets which contains different version during the filtering process. The xxxx_Final are the final datasets and are available in pickle, excel, cvsm, yaml and json format. You can load the pickle, yaml and json formatted data directly into python using respective load data commands.  You can then load the data as a pandas Dataframe to conduct analysis on the data. For non-techincal user, refer to the excel sheet.
+The Datasets folder has datasets which contains different version during the filtering process. The xxxx_Final are the final datasets and are available in pickle, excel, cvs, yaml and json format. You can load the pickle, yaml and json formatted data directly into python using respective load data commands.  You can then load the data as a pandas Dataframe to conduct analysis on the data. For non-techincal user, refer to the excel sheet.
 
 
-## Futyre Work
+## Future Work
 
 Conducting  analsyis on metrics such as highest gross movies, running time, IMDB ratings and many others is a work in progress.
 
