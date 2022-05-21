@@ -24,11 +24,11 @@ The project was done in Google Colab. You can clone or download the repo to run 
 
 ## Background Information
 
-This project was done in a span of two weeks. I had to study up on documentation, ibraries, and data filtering methods. I have always donwloaded datasets from Kaggle and other open datasets for my projects. I had never attempeted to build one myself. Although this is a static database, future work may include building it towards an open dataset hosted on the web. This project showed an interesting look on how datasets are build.
+This project was done in a span of two weeks. I had to study up on documentation, libraries, and data filtering methods. I have always donwloaded datasets from Kaggle and other open datasets for my projects. I had never attempeted to build one myself. Although this is a static database, future work may include building it towards an open dataset hosted on the web. This project showed an interesting look on how datasets are build.
 
-I attempted to srape Wikipedia pages to build the Dataset.In this video we scrape Wikipedia pages to create a dataset on Disney movies.
+I attempted to srape Wikipedia pages to build the Dataset.
 
-The follwoing link https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films has references to Disney movies starting from the 1930s to present including some upcoming and undated movies. The main list has references to all the movies. Similarly, each movie has a Wiki page that holds the Infobox. Every possible infobox was craped and then filtered to build the dataset.
+The following link https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films has references to Disney movies starting from the 1930s to present including some upcoming and undated movies. The main list has references to all the movies. Similarly, each movie has a Wiki page that holds the Infobox. Every possible infobox was craped and then filtered to build the dataset.
 
 It is important to know that not every movie is included in the dataset. Some of the movies do not have a proper info box or do not have a Wikipage or are undated. Movies of these catogeries were excluded from the dataset.
 
